@@ -1,3 +1,9 @@
+# THIS PROJECT IS DEAD, THIS REPOSITORY REMAINS PUBLIC FOR HISTORICAL PURPOSES
+# THE SERVER THIS BOT IS MEANT FOR, DFEEDBACK IS CLOSED, AND THIS BOT WILL NEVER BE USED AGAIN.
+
+
+
+
 # MegaBot [![https://travis-ci.org/Dougley/MegaBot](https://img.shields.io/travis/Dougley/MegaBot.svg?style=for-the-badge&logo=travis)](https://travis-ci.org/Dougley/MegaBot)
 This repository holds the code for the bot used in the [Discord Feedback](https://discord.gg/discord-feedback) server.
 
